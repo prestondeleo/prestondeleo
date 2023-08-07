@@ -1,5 +1,11 @@
-### Hi there 👋
+### Hi there 👋 My name is Preston DeLeo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/preston-deleo-66573425b)
+
+- 🏫 Majoring in Computer Science and Cognitive Science with a minor in Artificial Intelligence at Case Western Reserve University (Class of 2025)
+- 🔬 Undergraduate Researcher, current research primarily in applications of artificial intelligence
+- 📫 Contact me via: prestondeleo@gmail.com or in my LinkedIn above!(Questions, employment opportunities, research, collaboration)
+- ⭐  If you like any of my work please feel free to give it a star!
+
 <!--
 **prestondeleo/prestondeleo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
