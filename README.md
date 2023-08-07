@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/preston-deleo-66573425b)
 <!--
 **prestondeleo/prestondeleo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
