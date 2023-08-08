@@ -2,9 +2,9 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/preston-deleo-66573425b)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:prestondeleo@gmail.com)
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/prestondeleo)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=prestondeleo.prestondeleo)
 ![GitHub stars](https://img.shields.io/github/stars/prestondeleo?style=social) 
 ![GitHub followers](https://img.shields.io/github/followers/prestondeleo?style=social)
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=prestondeleo alt=prestondeleo/> </p>
 
 - 🏫 Majoring in Computer Science and Cognitive Science with a minor in Artificial Intelligence at Case Western Reserve University (Class of 2025)
 - 🔬 Undergraduate Researcher, current research primarily in applications of artificial intelligence
