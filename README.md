@@ -4,7 +4,9 @@
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/prestondeleo)
 ![GitHub stars](https://img.shields.io/github/stars/prestondeleo?style=social) 
 ![GitHub followers](https://img.shields.io/github/followers/prestondeleo?style=social)
-<p align="left"> <img src=https://komarev.com/ghpvc/?username=prestondeleo alt=prestondeleo/> </p>
+<!--
+** <p align="left"> <img src=https://komarev.com/ghpvc/?username=prestondeleo alt=prestondeleo/> </p>
+-->
 
 - 🏫 Majoring in Computer Science and Cognitive Science with a minor in Artificial Intelligence at Case Western Reserve University (Class of 2025)
 - 🔬 Undergraduate Researcher, current research primarily in applications of artificial intelligence
