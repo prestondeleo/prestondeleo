@@ -10,6 +10,9 @@
 - 📫 Contact me via: Email or in my LinkedIn above!(Questions, employment opportunities, research, collaboration)
 - ⭐  If you like any of my work please feel free to give it a star!
 
+![Preston's github stats](https://github-readme-stats.vercel.app/api?username=prestondeleo)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prestondeleo)
+
 ## 🛠️ Skills
 
 ### Languages
@@ -41,10 +44,6 @@
 ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/preston-deleo-66573425b)
-
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-
 <!--
 **prestondeleo/prestondeleo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -59,6 +58,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![Preston's github stats](https://github-readme-stats.vercel.app/api?username=prestondeleo)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prestondeleo)
