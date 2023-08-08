@@ -15,7 +15,7 @@
 ### Languages
 
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![julia](https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)
 ![c#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![sql](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=sql&logoColor=white)
@@ -36,6 +36,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 
 ![Preston's github stats](https://github-readme-stats.vercel.app/api?username=prestondeleo)
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prestondeleo)
