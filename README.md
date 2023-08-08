@@ -6,6 +6,9 @@
 - 📫 Contact me via: prestondeleo@gmail.com or in my LinkedIn above!(Questions, employment opportunities, research, collaboration)
 - ⭐  If you like any of my work please feel free to give it a star!
 
+
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=prestondeleo &theme=radical)
+
 <!--
 **prestondeleo/prestondeleo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
