@@ -22,3 +22,4 @@ Here are some ideas to get you started:
 -->
 
 ![Preston's github stats](https://github-readme-stats.vercel.app/api?username=prestondeleo)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prestondeleo)
