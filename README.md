@@ -1,6 +1,9 @@
 ### Hi there 👋 My name is Preston DeLeo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/preston-deleo-66573425b)
-![GitHub stars](https://img.shields.io/github/stars/prestondeleo?style=social) ![GitHub forks](https://img.shields.io/github/forks/prestondeleo?style=social) ![GitHub watchers](https://img.shields.io/github/watchers/prestondeleo?style=social) ![GitHub followers](https://img.shields.io/github/followers/prestondeleo?style=social)
+![GitHub stars](https://img.shields.io/github/stars/prestondeleo?style=social) 
+![GitHub forks](https://img.shields.io/github/forks/prestondeleo?style=social) 
+![GitHub watchers](https://img.shields.io/github/watchers/prestondeleo?style=social) 
+![GitHub followers](https://img.shields.io/github/followers/prestondeleo?style=social)
 
 - 🏫 Majoring in Computer Science and Cognitive Science with a minor in Artificial Intelligence at Case Western Reserve University (Class of 2025)
 - 🔬 Undergraduate Researcher, current research primarily in applications of artificial intelligence
