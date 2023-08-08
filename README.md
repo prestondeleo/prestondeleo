@@ -1,5 +1,5 @@
 ### Hi there 👋 My name is Preston DeLeo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/preston-deleo-66573425b)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/preston-deleo-66573425b)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:prestondeleo@gmail.com)
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/prestondeleo)
 ![GitHub stars](https://img.shields.io/github/stars/prestondeleo?style=social) 
@@ -43,6 +43,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/preston-deleo-66573425b)
 
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
 <!--
 **prestondeleo/prestondeleo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
