@@ -7,8 +7,20 @@
 
 - 🏫 Majoring in Computer Science and Cognitive Science with a minor in Artificial Intelligence at Case Western Reserve University (Class of 2025)
 - 🔬 Undergraduate Researcher, current research primarily in applications of artificial intelligence
-- 📫 Contact me via: prestondeleo@gmail.com or in my LinkedIn above!(Questions, employment opportunities, research, collaboration)
+- 📫 Contact me via: Email or in my LinkedIn above!(Questions, employment opportunities, research, collaboration)
 - ⭐  If you like any of my work please feel free to give it a star!
+
+## 🛠️ Skills
+
+### Languages
+
+![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![julia](https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)
+![c#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![sql](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=sql&logoColor=white)
+
+
 
 <!--
 **prestondeleo/prestondeleo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
