@@ -8,8 +8,8 @@
 ** <p align="left"> <img src=https://komarev.com/ghpvc/?username=prestondeleo alt=prestondeleo/> </p>
 -->
 
-- 🏫 Majoring in Computer Science and Cognitive Science with a minor in Artificial Intelligence at Case Western Reserve University (Class of 2025)
-- 🔬 Undergraduate Researcher, current research primarily in applications of artificial intelligence
+- 🏫 Majoring in Computer Science and Cognitive Science at Case Western Reserve University (Class of 2025)
+- 🔬 Researcher, current research primarily in applications of artificial intelligence
 - 📫 Contact me via: Email or in my LinkedIn above!(Questions, employment opportunities, research, collaboration)
 - ⭐  If you like any of my work please feel free to give it a star!
 
