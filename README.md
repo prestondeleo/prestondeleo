@@ -1,4 +1,4 @@
-### Hi there 👋 My name is Preston DeLeo...this is my visible github
+### Hi there 👋 My name is Preston DeLeo... this is my visible github
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/preston-deleo)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:prestondeleo@gmail.com)
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/prestondeleo)
@@ -10,7 +10,7 @@
 
 - 🏫 Majoring in Computer Science and Cognitive Science at Case Western Reserve University (Class of 2025)
 - 🔬 Researcher, current research primarily in applications of artificial intelligence
-- 📫 Contact me via: Email or in my LinkedIn above!(Questions, employment opportunities, research, collaboration)
+- 📫 Contact me via: Email or in my LinkedIn above! (Questions, employment opportunities, research, collaboration)
 - ⭐  If you like any of my work please feel free to give it a star!
 
 ![Preston's github stats](https://github-readme-stats.vercel.app/api?username=prestondeleo)
