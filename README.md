@@ -13,6 +13,26 @@
 - 📫 Contact me via: Email or in my LinkedIn above! (Questions, employment opportunities, research, collaboration)
 - ⭐  If you like any of my work please feel free to give it a star!
 
+- Some of My Research Projects (Not organized in any particular fashion)
+    - A General Materials Data Science Framework for Quantitative 2D Analysis of Particle Growth from Image Sequences (see paper)
+    - A Quantification of Similarity in crystallites/particles through graph machine learning (link prediction via novel GCN model)
+- Some of My Other Research Related Projects
+    - Enhanced Image Classification in End-to-End Image Processing Pipeline With NAS
+    - Use of Different Entropic Measures to Improve Performance of Decision Trees
+    - Disentanglement Representation Learning through Deep Generative Models: Medium for Implicit Generalization of Higher Order Structures
+    - Pool-Based Active Learning for Regression via Query By Committee
+    - Active Learning for Causal Discovery through Ensemble Learning
+    - A More Accurate Model of the Visual System Through A Unique CNN Architecture With More Plausible Receptive Fields
+- Some Application Based Projects
+  - Pytorch CV Classification Models on Common Datasets
+  - Gen AI Web Application Assistant to Improve Employee Productivity (RAG architecture)
+  - Plastic Water Bottle Tracker and Sustainability web application
+  - Traffic Light and Road Simulator of Secure and Unsecure States
+  - Query Engine Tool to Analyze Youtube Dataset
+  - Database for Managing Information of Library Contents and Patrons
+  - Weather Application that Provides Recommendations and real time adjustments via user images using machine learning/computer vision 
+
+
 ![Preston's github stats](https://github-readme-stats.vercel.app/api?username=prestondeleo)
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prestondeleo)
 
