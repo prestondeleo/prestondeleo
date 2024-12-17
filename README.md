@@ -32,10 +32,6 @@
   - Database for Managing Information of Library Contents and Patrons
   - Weather Application that Provides Recommendations and real time adjustments via user images using machine learning/computer vision 
 
-
-![Preston's github stats](https://github-readme-stats.vercel.app/api?username=prestondeleo)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prestondeleo)
-
 ## 🛠️ Skills
 
 ### Languages
